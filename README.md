@@ -17,4 +17,6 @@ is little project to understand how React works.
 - fun creating conditions
 - joy from using ternary operators(not a fan of TO myself,but here they really fit)
 
+**BONUS** learn how to deploy React app on GitHub
+
 I used this amazing tutorial for [inspiration](https://www.youtube.com/watch?v=fQ1OA9Wyf2U&t=1s) - watched it ysterday, wrote code by myself today with a few changes.
